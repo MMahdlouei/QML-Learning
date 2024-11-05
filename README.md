@@ -21,7 +21,7 @@ This repository serves as a learning portfolio, documenting my progress and unde
 To get started with these projects, clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/QML-Learning-Projects.git
+git clone https://github.com/yourusername/QML-Learning.git
 ```
 
 Then, navigate into the project directory and follow the instructions in each project folder to set up and run the applications.
