@@ -30,17 +30,7 @@ Then, navigate into the project directory and follow the instructions in each pr
 
 Each folder represents a different QML project or concept from my course:
 
-- **Project 1: Basic UI Elements**  
-  Demonstrates the usage of text, buttons, and basic interactive elements in QML.
 
-- **Project 2: Data Binding and Models**  
-  Covers data binding concepts and shows how to manage data lists with models.
-
-- **Project 3: Animations and Transitions**  
-  Focuses on applying animations and transitions for a dynamic user interface.
-
-- **Project 4: Custom Components and Modular Design**  
-  Introduces custom reusable components and the structure of larger applications.
 
 ## Technologies Used
 
