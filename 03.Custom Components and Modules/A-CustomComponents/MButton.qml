@@ -28,7 +28,7 @@ Item{
             anchors.fill: parent
             onClicked: {
                 console.log("Clicked on " + buttonTextId.text)
-                // rootId.buttonClicked()//Emit your signal
+                rootId.buttonClicked()//Emit your signal
             }
         }
     }
